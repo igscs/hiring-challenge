@@ -23,7 +23,7 @@ Any Out of the Box Idea Implementation - 10 marks
 
 ## Process
 
-01) You can select any dashboard template from to solve this assesment. 
+01) You can select any dashboard template from [here](https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4) to solve this assesment. 
 
 02) Download the Mongo Dataset in data folder 
 
@@ -33,4 +33,8 @@ Any Out of the Box Idea Implementation - 10 marks
 The temp-hum-entries file contain entries of 6 zones with their Temperature & Humidity Value.
 
 a) Build a Temperature vs Time(Per Hour) Charts of a date.
+
 b) Build a Humidity vs Time(Per Hour) Charts of a date.
+
+Eg-
+![Sample](chart.jpg "Chart")
