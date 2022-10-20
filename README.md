@@ -38,3 +38,10 @@ b) Build a Humidity vs Time(Per Hour) Charts of a date.
 
 Eg- Below is the Humidity vs Time chart for Zone 1 of 20 Sept 2022. 
 ![Sample](chart.jpg "Chart")
+
+
+## Submission
+
+01) You have 7 days to complete this challenge
+
+02) Create Git Repository and submit it to info@igscs.in before deadline
