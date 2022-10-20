@@ -36,5 +36,5 @@ a) Build a Temperature vs Time(Per Hour) Charts of a date.
 
 b) Build a Humidity vs Time(Per Hour) Charts of a date.
 
-Eg-
+Eg- Below is the Humidity vs Time chart for Zone 1 of 20 Sept 2022. 
 ![Sample](chart.jpg "Chart")
